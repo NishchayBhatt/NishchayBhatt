@@ -13,7 +13,7 @@ _I am a Self-taught __Go developer__ by hobby, __JS Developer__ by reality. :(_
 
 <h3 align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Nishchay1571999&label=Profile%20views&color=0e75b6&style=flat" alt="Nishchay1571999" />
+<img src="https://komarev.com/ghpvc/?username=NishchayBhatt&label=Profile%20views&color=0e75b6&style=flat" alt="NishchayBhatt" />
 
  </h3>
  </br>
@@ -23,13 +23,13 @@ _I am a Self-taught __Go developer__ by hobby, __JS Developer__ by reality. :(_
 
 <!--  <img src="https://c.tenor.com/grhuEkbcNh8AAAAi/emoji-fast-typing.gif"> -->
 
-![Nishchay's GitHub stats](https://github-readme-stats-livxy.vercel.app/api?username=Nishchay1571999&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true)[![GitHub Streak](https://streak-stats.demolab.com?user=Nishchay1571999&hide_border=true&background=00000000&border=00000000&stroke=9F9F9F&ring=64B2FF&fire=4F8CC9&currStreakNum=4F8CC9&sideNums=4F8CC9&currStreakLabel=D8D8D8&sideLabels=D8D8D8&dates=9F9F9F)](https://git.io/streak-stats)
+![Nishchay's GitHub stats](https://github-readme-stats-livxy.vercel.app/api?username=NishchayBhatt&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true)[![GitHub Streak](https://streak-stats.demolab.com?user=NishchayBhatt&hide_border=true&background=00000000&border=00000000&stroke=9F9F9F&ring=64B2FF&fire=4F8CC9&currStreakNum=4F8CC9&sideNums=4F8CC9&currStreakLabel=D8D8D8&sideLabels=D8D8D8&dates=9F9F9F)](https://git.io/streak-stats)
 </br>
 </br>
 <h2><i>Activity Graph</i></h2>
 </br>
 
-[![Nishchay1571999's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nishchay1571999&bg_color=00000000&color=c7c7c7&line=75baff&point=4F8CC9&area=true&hide_border=true)](https://github.com/Nishchay1571999/)
+[![NishchayBhatt's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NishchayBhatt&bg_color=00000000&color=c7c7c7&line=75baff&point=4F8CC9&area=true&hide_border=true)](https://github.com/NishchayBhatt/)
 
 </div>
 
