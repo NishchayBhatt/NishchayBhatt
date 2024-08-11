@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </h2> 
 
-_I am a Self-taught __Go developer__ by hobby, __JS Developer__ by reality. :(_
+_I am a Self-taught __Go,Rust developer__ by hobby, __JS Developer__ by reality. :(_
 
 
 <h3 align="center">
